@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Cinema Reservation App](https://github.com/MauriceBoendermaker/Project-B)
 
-- 👨‍💻 All of my projects are available at [https://www.elevatordigital.nl](elevatordigital.nl)
+- 👨‍💻 All of my projects are available at [elevatordigital.nl](https://www.elevatordigital.nl)
 
 - 📫 How to reach me **webbyalper@gmail.com**
 
